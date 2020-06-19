@@ -1,0 +1,1 @@
+The project is about classifying images on whether the hand sign is showing rock, paper, or scissors. I'm using Tensorflow library to implement image augmentation. I'm also using image data generator with sequential model. I got the accuracy of 90% for classifying the test set.
